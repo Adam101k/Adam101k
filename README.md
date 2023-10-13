@@ -44,7 +44,8 @@
   <h1>Featured Projects</h1>
 </div>
 
-- [Shipment, a game I lead the development of as a part of California State University Fullerton's Video Game Design Club](https://github.com/Adam101k/Unity-Shipment)
+- [Shipment! A game I lead the development of as a part of California State University Fullerton's Video Game Design Club](https://github.com/Adam101k/Unity-Shipment)
 - [Discord Internship bot that searches and lists job openings based on specific criteria](https://github.com/Adam101k/Internship-Discord-Bot)
+- [To The Vault! A game Developed in 15 days as a personal challenge to improve my 2D game skills](https://github.com/Adam101k/2-The-Vault)
 
 
