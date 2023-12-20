@@ -23,6 +23,11 @@ Let me show you some stuff that I'm doing!
 
 <div align = "center">
 <a href="https://github.com/Adam101k/Unity-Shipment"><img src="ShipmentImg.png"></a>
-  <a href="https://stickguy101.itch.io/disquietude"><img src = "DisquietudeImg.png"></a></br>
+<a href="https://stickguy101.itch.io/disquietude"><img src = "DisquietudeGif.gif"></a></br>
 <a href="https://stickguy101.itch.io/to-the-vault"><img src = "ToTheVaultImg.png"></a></br>
-
+<a href="https://stickguy101.itch.io/radish"><img src = "Radish.png"></a></br>
+<a href="https://stickguy101.itch.io/cafe-delivery"><img src = "CafeDelivery.png"></a></br>
+<a href="https://stickguy101.itch.io/take-your-time"><img src = "TakeYourTime.gif"></a></br>
+</br>
+</div>
+<img align="right" src="https://komarev.com/ghpvc/?username=Adam101k&color=e95c7d&label=Views">
