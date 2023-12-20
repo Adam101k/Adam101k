@@ -19,15 +19,34 @@ Let me show you some stuff that I'm doing!
 
 :zzz: Previously:
 
-</br>
+- [Shipment! A game I lead the development of as a part of California State University Fullerton's Video Game Design Club](https://github.com/Adam101k/Unity-Shipment)
+- [Discord Internship bot that searches and lists job openings based on specific criteria](https://github.com/Adam101k/Internship-Discord-Bot)
+- [To The Vault! A game Developed in 15 days as a personal challenge to improve my 2D game skills](https://github.com/Adam101k/2-The-Vault)
+
+
+
+
+<div align="center">
+  <h1>Portfolio</h1>
+</div>
 
 <div align = "center">
-<a href="https://github.com/Adam101k/Unity-Shipment"><img src="ShipmentImg.png"></a>
-<a href="https://stickguy101.itch.io/disquietude"><img src = "DisquietudeGif.gif"></a></br>
-<a href="https://stickguy101.itch.io/to-the-vault"><img src = "ToTheVaultImg.png"></a></br>
-<a href="https://stickguy101.itch.io/radish"><img src = "Radish.png"></a></br>
-<a href="https://stickguy101.itch.io/cafe-delivery"><img src = "CafeDelivery.png"></a></br>
-<a href="https://stickguy101.itch.io/take-your-time"><img src = "TakeYourTime.gif"></a></br>
-</br>
+  <a href = "https://adamkaciportfolio.myportfolio.com/work"> My Portfolio!</a>
+<div align="center">
+  <h1>🌐 Socials:</h1>
 </div>
-<img align="right" src="https://komarev.com/ghpvc/?username=Adam101k&color=e95c7d&label=Views">
+
+<div align = "center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-kaci-70694a24b/)
+  [![](https://visitcount.itsvg.in/api?id=Adam101k&icon=0&color=0)](https://visitcount.itsvg.in)  
+</div>
+
+<div align="center">
+  <h1>GitHub Stats</h1>
+</div>
+
+<div align = "center">
+  
+![Adam101k's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adam101k&show_icons=true&count_private=true)
+</div>
