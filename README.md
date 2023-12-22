@@ -8,8 +8,7 @@ Currently a Second Year Comp Sci Student at Cal State Fullerton
 Let me show you some stuff that I'm doing!
 
 :speech_balloon: Now:
-- Learning about Compute Shaders
-- Reading about Boids ("bird-oid object")
+- Implementing "Bird Like Objects" (Boids) in Unity
 
 :thought_balloon: Later:
 - Explore uses of Inverse Kinematics for procedural "looking"
