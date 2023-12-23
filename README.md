@@ -15,6 +15,7 @@ Let me show you some stuff that I'm doing!
 - Implement a recreation of Team Fortress's 2 "Rocket Jumping"
 - Research implementations of Complex Gravity Simulation
 - Research Modern Foliage Rendering
+- Research & Implement Diegetic UI
 
 :zzz: Previously:
 - [Shipment! A game I lead the development of as a part of California State University Fullerton's Video Game Design Club](https://github.com/Adam101k/Unity-Shipment) </br>
