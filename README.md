@@ -20,7 +20,9 @@ Let me show you some stuff that I'm doing!
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-kaci-70694a24b/) </br>
 
 :zzz: Previously:
+
 </br>
+
 <div align="center">
   <a href="https://stickguy101.itch.io/disquietude"><img src="Images/Disquietude.gif" width="480"></a>
   <a href="https://github.com/Adam101k/2-The-Vault"><img src="Images/ToTheVault.gif" width="480"></a> </br>
