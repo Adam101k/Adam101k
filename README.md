@@ -1,9 +1,7 @@
-<div align="left">
+<div align="center">
 <img src="Images/Stickguy.png" width="150">
 </div>
-
-Hello, I'm Adam Kaci.
-Currently a Second Year Comp Sci Student at Cal State Fullerton
+Hello, I'm Adam Kaci, a CS major at CSUF!
 
 Let me show you some stuff that I'm doing!
 
@@ -17,11 +15,16 @@ Let me show you some stuff that I'm doing!
 - Research Modern Foliage Rendering
 - Research & Implement Diegetic UI
 
-:zzz: Previously:
-- [Shipment! A game I lead the development of as a part of California State University Fullerton's Video Game Design Club](https://github.com/Adam101k/Unity-Shipment) </br>
-- [Discord Internship bot that searches and lists job openings based on specific criteria](https://github.com/Adam101k/Internship-Discord-Bot) </br>
-- [To The Vault! A game Developed in 15 days as a personal challenge to improve my 2D game skills](https://github.com/Adam101k/2-The-Vault) </br>
-
 📝 Portfolio / 🌐 Socials:
 - <a href = "https://adamkaciportfolio.myportfolio.com/work"> Adam Kaci Portfolio Website</a> </br>
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-kaci-70694a24b/) </br>
+
+:zzz: Previously:
+</br>
+<div align="center">
+  <a href="https://stickguy101.itch.io/disquietude"><img src="Images/Disquietude.gif" width="550"></a>
+  <a href="https://github.com/Adam101k/2-The-Vault"><img src="Images/ToTheVault.gif" width="450"></a></a> </br>
+  <a href="https://github.com/Adam101k/Internship-Discord-Bot"><img src="Images/DiscordBot.png" width="550"></a>
+  <a href="https://github.com/Adam101k/Unity-Shipment"><img src="Images/Shipment.gif" width="650"></a></br>
+</br>
+</div>
