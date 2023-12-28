@@ -1,5 +1,5 @@
-<div align="center">
-<img src="Stickguy.png" width="150">
+<div align="left">
+<img src="Images/Stickguy.png" width="150">
 </div>
 
 Hello, I'm Adam Kaci.
