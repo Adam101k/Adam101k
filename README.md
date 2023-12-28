@@ -24,7 +24,7 @@ Let me show you some stuff that I'm doing!
 <div align="center">
   <a href="https://stickguy101.itch.io/disquietude"><img src="Images/Disquietude.gif" width="480"></a>
   <a href="https://github.com/Adam101k/2-The-Vault"><img src="Images/ToTheVault.gif" width="480"></a> </br>
-  <a href="https://github.com/Adam101k/Internship-Discord-Bot"><img src="Images/DiscordBot.png" width="480"></a>
-  <a href="https://github.com/Adam101k/Unity-Shipment"><img src="Images/Shipment.png" width="480"></a></br>
+  <a href="https://github.com/Adam101k/Internship-Discord-Bot"><img src="Images/DiscordBot.png"></a>
+  <a href="https://github.com/Adam101k/Unity-Shipment"><img src="Images/Shipment.png"></a></br>
 </br>
 </div>
