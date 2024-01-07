@@ -6,11 +6,11 @@ Hello, I'm Adam Kaci, a CS major at CSUF!
 Let me show you some stuff that I'm doing!
 
 :speech_balloon: Now:
-- Recreate Source Engine's first-person movement and Implement in Unity
+- Implement a recreation of Team Fortress's 2 "Rocket Jumping"
 
 :thought_balloon: Later:
 - Explore uses of Inverse Kinematics for procedural "looking"
-- Implement a recreation of Team Fortress's 2 "Rocket Jumping"
+- Recreate the 3D visual shaders shown in the "Persona 3 Reload" trailer
 - Research implementations of Complex Gravity Simulation
 - Research Modern Foliage Rendering
 - Research & Implement Diegetic UI
