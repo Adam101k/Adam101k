@@ -6,7 +6,7 @@ Hello, I'm Adam Kaci, a CS major at CSUF!
 Let me show you some stuff that I'm doing!
 
 :speech_balloon: Now:
-- Recreate Source Engine's first movement and Implement in Unity
+- Recreate Source Engine's first-person movement and Implement in Unity
 
 :thought_balloon: Later:
 - Explore uses of Inverse Kinematics for procedural "looking"
