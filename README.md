@@ -6,7 +6,7 @@ Hello, I'm Adam Kaci, a CS major at CSUF!
 Let me show you some stuff that I'm doing!
 
 :speech_balloon: Now:
-- Participating in the "Acerola Jam 0"
+- Dealing With College Finals
 
 :thought_balloon: Later:
 - Explore uses of Inverse Kinematics for procedural "looking"
