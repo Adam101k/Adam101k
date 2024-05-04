@@ -7,6 +7,7 @@ Let me show you some stuff that I'm doing!
 
 :speech_balloon: Now:
 - Dealing With College Finals
+- Learning Godot!
 
 :thought_balloon: Later:
 - Explore uses of Inverse Kinematics for procedural "looking"
