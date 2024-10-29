@@ -6,11 +6,10 @@ Hello, I'm Adam Kaci, a CS major at CSUF!
 Let me show you some stuff that I'm doing!
 
 :speech_balloon: Now:
-- Learning Unreal 5
-- Secret Project
+- Creating A Video Game in Unreal 5
+- Underwater Rendering
 
 :thought_balloon: Later:
-- Research Underwater Shading
 - Explore uses of Inverse Kinematics for procedural "looking"
 - Recreate the 3D visual shaders shown in the "Persona 3 Reload" trailer
 - Research implementations of Complex Gravity Simulation
