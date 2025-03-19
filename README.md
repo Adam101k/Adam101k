@@ -8,6 +8,7 @@ Let me show you some stuff that I'm doing!
 :speech_balloon: Now:
 - Creating A Video Game in Unreal 5
 - Underwater Rendering
+- Multiplayer Networking
 
 :thought_balloon: Later:
 - Explore uses of Inverse Kinematics for procedural "looking"
@@ -18,13 +19,14 @@ Let me show you some stuff that I'm doing!
 
 📝 Portfolio / 🌐 Socials:
 - <a href = "https://adamkaciportfolio.myportfolio.com/work"> Adam Kaci Portfolio Website</a> </br>
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-kaci-70694a24b/) </br>
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-kaci-%F0%9F%94%9C-gdc-70694a24b/) </br>
 
 :zzz: Previously:
 
 </br>
 
 <div align="center">
+  <a href="https://adamkaciportfolio.myportfolio.com/project-b"><img src="Images/ProjectB.gif" width = "420"> </a>
   <a href="https://stickguy101.itch.io/aberrational"><img src="Images/Aberrational.gif" width = "420"> </a>
   <a href="https://github.com/Adam101k/Boids-Bird-Like-Objects"><img src="Images/FinalBoids.gif" width = "420"> </a> </br>
   <a href="https://stickguy101.itch.io/disquietude"><img src="Images/Disquietude.gif" width="420"></a>
