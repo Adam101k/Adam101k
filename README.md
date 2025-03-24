@@ -19,7 +19,7 @@ Let me show you some stuff that I'm doing!
 
 📝 Portfolio / 🌐 Socials:
 - <a href = "https://adamkaciportfolio.myportfolio.com/work"> Adam Kaci Portfolio Website</a> </br>
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-kaci-%F0%9F%94%9C-gdc-70694a24b/) </br>
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-kaci-70694a24b/) </br>
 
 :zzz: Previously:
 
