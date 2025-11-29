@@ -3,7 +3,7 @@
 </div>
 Hello, I'm Adam Kaci, a CS major at CSUF!
 
-Let me show you some stuff that I'm doing!
+Let me show you some of the things I'm doing! All of the GIFs below are clickable! If something interests you, click to see more!
 
 :speech_balloon: Now:
 - Creating A Video Game in Unreal 5
