@@ -1,7 +1,5 @@
-<div align="center"> 
-  <img src="Images/Stickguy.png" width="15%">
-</div>
 
+## <img src="Images/Stickguy.png" width="3%"> About Me 
 <p align="center">
 Hello! I'm Adam Kaci, a Computer Science graduate from California State University, Fullerton! I love Game Development and Programming!
 </p>
