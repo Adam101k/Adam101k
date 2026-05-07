@@ -1,9 +1,9 @@
 <div align="center"> 
-  <img src="Images/Stickguy.png" width="150">
+  <img src="Images/Stickguy.png" width="15%">
 </div>
-<h1 align="center">Hello! I'm Adam Kaci</h1>
+
 <p align="center">
-I'm  Computer Science graduate from California State University, Fullerton! I love Game Development and Programming!
+Hello! I'm Adam Kaci, a Computer Science graduate from California State University, Fullerton! I love Game Development and Programming!
 </p>
 
 ## 💬 Current Project
