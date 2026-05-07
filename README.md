@@ -1,21 +1,19 @@
 <div align="center">
 <img src="Images/Stickguy.png" width="150">
 </div>
-Hello, I'm Adam Kaci, a CS major at CSUF!
+Hello, I'm Adam Kaci, a Computer Science graduate from California State University, Fullerton! I love Game Development, Graphics, and Niche Technologies!
 
 Let me show you some of the things I'm doing!
 
 All of the GIFs below are clickable! If something interests you, click to see more!
 
-:speech_balloon: Now:
-- Creating A Video Game in Unreal 5
+:speech_balloon: Currently I'm Working On:
+- Benthos, a 3D co-op multiplayer title developed in Unreal Engine
 - Underwater Rendering
 - Multiplayer Networking
 
 :thought_balloon: Later:
-- Explore uses of Inverse Kinematics for procedural "looking"
-- Recreate the 3D visual shaders shown in the "Persona 3 Reload" trailer
-- Research implementations of Complex Gravity Simulation
+- Explore unique PSX rendering technology to improve the visuals of Benthos
 - Research Modern Foliage Rendering
 - Research & Implement Diegetic UI
 
