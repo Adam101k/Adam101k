@@ -1,11 +1,13 @@
+<div align="center">
+<img src="Images/Stickguy.png" width="150">
+</div>
 
-## <img src="Images/Stickguy.png" width="3%"> About Me 
 <p align="center">
-Hello! I'm Adam Kaci, a Computer Science graduate from California State University, Fullerton! I love Game Development and Programming!
+Hello, I'm Adam Kaci, a CS graduate who loves Game Development, Graphics, and Niche Tech!
 </p>
 
-## 💬 Current Project
-### **Benthos**
+# 💬 Current Project
+
 I am currently leading development on **Benthos** as the CEO / Game Director of **Doodlefish Games**, an indie game development studio. My work includes:
 - Leading a team of 8+ contributors across programming, art, design, production, and outsourcing
 - Developing core gameplay systems in **Unreal Engine**
@@ -22,7 +24,11 @@ I am currently leading development on **Benthos** as the CEO / Game Director of 
 - Worked with internal 3D / XR tooling related to Google’s **Project Moohan**
 - Practiced professional engineering workflows including code review, unit testing, design documents, and stakeholder collaboration
 
-## 🛠️ Tech Stack
+## 📝 Portfolio / 🛠️ Tech Stack
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-kaci-70694a24b/)
+[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itch.dot.io&logoColor=white)](https://stickguy101.itch.io/)
+</br>
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
@@ -32,10 +38,6 @@ I am currently leading development on **Benthos** as the CEO / Game Director of 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Blueprints](https://img.shields.io/badge/Blueprints-137CBD?style=flat&logo=unrealengine&logoColor=white)
-
-## 📝 Portfolio / 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-kaci-70694a24b/)
- [![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itch.dot.io&logoColor=white)](https://stickguy101.itch.io/)
 
 # 🕹️ Featured Work
 <div align="center">
